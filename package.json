@@ -1,0 +1,12 @@
+{
+  "name": "O2",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "yarn": "^1.12.3"
+  },
+  "scripts": {
+    "test": "yarn jest"
+  }
+}
